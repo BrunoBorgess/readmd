@@ -11,3 +11,5 @@
 * Comando git push
 
 * push 1
+
+* alteração fetch
